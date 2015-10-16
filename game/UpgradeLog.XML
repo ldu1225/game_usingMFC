@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Game">
+</Property><Property Name="솔루션 파일" Value="D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game.sln">
+</Property><Property Name="사용자 옵션 파일" Value="D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game.suo">
+</Property><Property Name="Date" Value="2013년 11월 8일 금요일">
+</Property><Property Name="Time" Value="오전 11:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Game.sln" Description="파일을 D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game.sln.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="Game.suo" Description="파일을 D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game.suo.old(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="Game" Source="Game\Game.vcproj" Description="Converting project file 'D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game\Game.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Game" Source="Game\Game.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Game" Source="Game\Game.vcproj" Description="Done converting to new project file 'D:\2] 대학교\2학년\2학기\MFC 프로그래밍\MFC 예제 소스\본문소스코드\part04\Game\Game\Game.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Game" Source="Game\Game.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Game.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="Game.sln" Description="Converted">
+</Event></UpgradeLog>
